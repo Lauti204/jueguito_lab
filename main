@@ -6,6 +6,7 @@ int main(void){
    	setlocale(LC_ALL, "Spanish");
 	
 	int num;
+	cout << "MI CPP" << endl;
 	
 	cout << "MATHRIX" << endl;
 	cout << "---------------------" << endl;
@@ -14,6 +15,7 @@ int main(void){
 	cout << "3 - CRÉDITOS" << endl;
 	cout << "---------------------" << endl;
 	cout << "0 - SALIR" << endl << endl;
+	
 	
 	cin >> num;
 	
