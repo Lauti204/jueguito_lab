@@ -7,6 +7,9 @@ int main(void){
 	
 	int num;
 	
+	
+	cout << "Lauti" << endl;
+	
 	cout << "MATHRIX" << endl;
 	cout << "---------------------" << endl;
 	cout << "1 - JUGAR" << endl;
